@@ -37,7 +37,7 @@ Goal is to unlock all stages.
   * Better control of time and workload management
   * A stronger desire to learn about game development.
   * Prototyping, testing, debugging, re-designing
-  * Fluent and steady communication skills.
+  * Communication skills that are more fluent and steady.
 * The creation and usage of Advertisement in Unity.
 * The steps and understanding of publication of games through Unity and the Google Play Store. 
 * Reading and writing files on the phone to store game data.
