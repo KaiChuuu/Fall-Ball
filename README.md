@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RedDogClifford/Fall-Ball/">
-    <img src="Fall Ball Icon.jpg" alt="Logo" width="160" height="160">
+    <img src="Fall Ball Feature Graphic.jpg" alt="Logo" width="160" height="160">
   </a>
 </p>
 <h2 align="center">Fall Ball</h2>
