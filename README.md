@@ -27,6 +27,7 @@ Goal is to unlock all stages.
 ## Extra Features
 * Animated menu screen
 * Self-created music
+* Self-created images,logos.icons,backgrounds (ALL work for this project was done)
 * Continue your run with 2 extra lives!
 
 ##
