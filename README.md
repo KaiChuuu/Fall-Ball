@@ -3,9 +3,7 @@
     <img src="Fall Ball Icon.jpg" alt="Logo" width="160" height="160">
   </a>
 </p>
-<h2 align="center">
-# Fall-Ball 
-  </h3>
+<h2 align="center">Fall Ball</h2>
 ## By Kai Chu and Andrew Yeon
 
 ## Game can be found on the Google play store! 
