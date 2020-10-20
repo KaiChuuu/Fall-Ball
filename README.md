@@ -24,11 +24,12 @@ Complete stages to increase your score!
 Master the levels you have encountered. 
 Goal is to unlock all stages.
 
-## Extra Features
+## Game Features
 * Animated menu screen
 * Self-created music
 * Self-created images,logos.icons,backgrounds (ALL work for this project was done)
 * The add on of continuing runs with 2 extra lives!
+* Ball death animation
 
 ## Things I've learned/Obtained 
 * A much deeper knowledge of Unity and Unity Remote 5
@@ -43,4 +44,10 @@ Goal is to unlock all stages.
 * Reading and writing files on the phone to store game data.
 * Coding experience with C#
 
+## More in depth with the Code
+* Created code to randomize stages in Unity
+* Switch between different scenes
+* Maintain camera on ball
+* Smooth level transitions
+* Data passing through different Unity Scenes
 
