@@ -7,7 +7,5 @@ https://play.google.com/store/apps/details?id=com.HappyTeamEntertainment.FallBal
 ## How to play
 
 Touch the left half of the screen to move left and
-
 Touch the right half of the screen to move right.
-
 Avoid red obstacles and try to get as far as you can.
