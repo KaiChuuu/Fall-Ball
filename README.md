@@ -2,9 +2,11 @@
   <a href="https://github.com/RedDogClifford/Fall-Ball/">
     <img src="Fall Ball Icon.jpg" alt="Logo" width="160" height="160">
   </a>
-  # Fall-Ball
 </p>
-# Fall-Ball by Kai Chu and Andrew Yeon
+<h2 align="center">
+# Fall-Ball 
+  </h3>
+## By Kai Chu and Andrew Yeon
 
 ## Game can be found on the Google play store! 
 
