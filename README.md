@@ -23,3 +23,10 @@ Complete stages to increase your score!
 ### Levels
 Master the levels you have encountered. 
 Goal is to unlock all stages.
+
+## Extra Features
+* Animated menu screen
+* Self-created music
+* Continue your run with 2 extra lives!
+
+##
