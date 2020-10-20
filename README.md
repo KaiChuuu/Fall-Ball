@@ -28,6 +28,19 @@ Goal is to unlock all stages.
 * Animated menu screen
 * Self-created music
 * Self-created images,logos.icons,backgrounds (ALL work for this project was done)
-* Continue your run with 2 extra lives!
+* The add on of continuing runs with 2 extra lives!
 
-##
+## Things I've learned/Obtained 
+* A much deeper knowledge of Unity and Unity Remote 5
+* Experience of going through and leading the software development processes. 
+  * Designing a Document Specification
+  * Better control of time and workload management
+  * A stronger desire to learn about game development.
+  * Prototyping, testing, debugging, re-designing
+  * Fluent and steady communication skills.
+* The creation and usage of Advertisement in Unity.
+* The steps and understanding of publication of games through Unity and the Google Play Store. 
+* Reading and writing files on the phone to store game data.
+* Coding experience with C#
+
+
