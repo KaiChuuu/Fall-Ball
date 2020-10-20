@@ -27,7 +27,7 @@ Goal is to unlock all stages.
 ## Game Features
 * Animated menu screen
 * Self-created music
-* Self-created images,logos.icons,backgrounds (ALL work for this project was done)
+* Self-created images,logos.icons,backgrounds 
 * The add on of continuing runs with 2 extra lives!
 * Ball death animation
 
