@@ -54,5 +54,5 @@ Goal is to unlock all stages.
 * Create Smooth level transitions
 * Data passing through different Unity Scenes
 * Collision of red objects
-* Importing sound files into the game
+* Using sound files in the game
 
