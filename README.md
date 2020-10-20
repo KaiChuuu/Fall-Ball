@@ -34,20 +34,25 @@ Goal is to unlock all stages.
 ## Things I've learned/Obtained 
 * A much deeper knowledge of Unity and Unity Remote 5
 * Experience of going through and leading the software development processes. 
-  * Designing a Document Specification
+  * Designing a Requirements Document
   * Better control of time and workload management
   * A stronger desire to learn about game development.
   * Prototyping, testing, debugging, re-designing
-  * Communication skills that are more fluent and steady.
+  * Communication skills that are more clear and fluent.
+  * An understanding of the constant evolution of game design and planning.
 * The creation and usage of Advertisement in Unity.
 * The steps and understanding of publication of games through Unity and the Google Play Store. 
 * Reading and writing files on the phone to store game data.
+* Gained experience with level designing
 * Coding experience with C#
 
 ## More in depth with the Code
 * Created code to randomize stages in Unity
 * Switch between different scenes
+* Trigger buttons
 * Maintain camera on ball
-* Smooth level transitions
+* Create Smooth level transitions
 * Data passing through different Unity Scenes
+* Collision of red objects
+* Importing sound files into the game
 
